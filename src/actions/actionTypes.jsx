@@ -1,0 +1,4 @@
+export const GET_ALL="GET_ALL";
+export const HANDLE_INCRESE= "HANDLE_INCRESE"
+export const HANDLE_DECRESE= "HANDLE_DECRESE"
+export const NEW_COUNTER= "NEW COUNTER"
